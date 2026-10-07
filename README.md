@@ -1,8 +1,12 @@
 # Stephen Melben Corral v3
 TBD
 
+# Design
+
 # Technologies Used
-- TBD
+- Tailwind CSS
+- React
+
 
 # Deployment To Github Pages
 - To deploy the portfolio in github pages, you need to do the following:
