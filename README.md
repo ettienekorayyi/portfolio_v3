@@ -3,9 +3,10 @@ TBD
 
 # Design
 
-# Technologies Used
+# Technologies
 - Tailwind CSS
 - React
+- Bash
 
 
 # Deployment To Github Pages
